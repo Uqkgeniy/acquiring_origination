@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal" created-in="DB-261.24374.56">
+    <data-source name="funnel" uuid="457917ba-dbf6-4db8-b9ce-900f6b1f373e">
+      <database-info product="DuckDB" version="v1.3.1" jdbc-version="1.0" driver-name="DuckDBJ" driver-version="1.0" dbms="DUCKDB" exact-version="1.0" exact-driver-version="1.0">
+        <identifier-quote-string>&quot;</identifier-quote-string>
+      </database-info>
+      <case-sensitivity plain-identifiers="exact" quoted-identifiers="exact" />
+      <secret-storage>master_key</secret-storage>
+      <auth-provider>no-auth</auth-provider>
+      <schema-mapping>
+        <introspection-scope>
+          <node kind="database" qname="@">
+            <node kind="schema" qname="@" />
+          </node>
+        </introspection-scope>
+      </schema-mapping>
+    </data-source>
+  </component>
+</project>
